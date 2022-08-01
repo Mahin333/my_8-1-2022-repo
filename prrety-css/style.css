@@ -1,0 +1,17 @@
+.blog_bandor{
+    background-color: chocolate;
+    color: aliceblue;
+    margin: red 5px ;
+    padding: 50px;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+    border: 5px double black;
+    
+}
+
+small{
+    color: blue;
+    font-family: sans-serif;
+
+}
